@@ -1,1 +1,0 @@
-This is a text I am writing using the command vim. Then, I would like to check if vim works to add changes in js, html etc. files. Good bye!

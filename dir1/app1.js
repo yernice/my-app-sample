@@ -1,1 +1,0 @@
-console.log("Hello, it is app1 js file");
